@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "documents": [
+      "recipe1.pdf",
+      "recipe2.pdf"
+    ],
+    "persona": "Nutritionist looking for high-protein vegetarian options",
+    "job_to_be_done": "Find suitable recipes with at least 20g protein",
+    "timestamp": "2025-07-27T18:03:06.311753"
+  },
+  "extracted_sections": []
+}
